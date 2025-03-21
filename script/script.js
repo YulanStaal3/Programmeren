@@ -23,6 +23,8 @@ const alleenAardbei = document.querySelector(".alleenaardbei img");
 const alleenBosbes = document.querySelector(".alleenbosbes img");
 const alleenSlagroom = document.querySelector(".alleenslagroom img");
 
+// arrays topping, tekst & achtegrondkleur
+
 let toppings = [alleenStroop, alleenAardbei, alleenBosbes, alleenSlagroom];
 let textjes = ["Strooppie 🤎", "Oehh aardbei ❤️", "Lekker bosbesjes 💙", "Hmmmm slagroom 🤍"]
 let achtergrondKleur = ["#6f4f28", "#840404", "#00007e", "#ecc19f"]; 
@@ -110,6 +112,12 @@ klaar.addEventListener('click', function () {
 // https://www.youtube.com/watch?v=H3e1yJeQV1E
 // https://www.youtube.com/watch?v=yQ1fz8LY354
 // https://www.w3schools.com/js/js_if_else.asp
+// https://stackoverflow.com/questions/9419263/how-to-play-audio
+// https://www.w3schools.com/js/js_arrays.asp
+// https://www.w3schools.com/jsref/prop_style_backgroundcolor.asp
+
+
+
 
 
 
